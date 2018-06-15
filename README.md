@@ -2,8 +2,8 @@
 Create and style a single-page webpage that includes media element(s) - images, sound, or video. It can be a tribute page, a simple portfolio page, or a simplified veresion of an exisiting webpage (maybe a website you already use regularly). You will also learn how to use Chrome Developer tools to examine any webpage.
 
 #### Technologies
- [⋅] semantic HTML
- [⋅] external CSS style sheet
+ [ ] semantic HTML
+ [ ] external CSS style sheet
  [⋅] use Chrome Web Developer Tools to examine web pages
 
 #### Specifications
